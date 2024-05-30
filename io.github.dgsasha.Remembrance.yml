@@ -1,6 +1,6 @@
 app-id: io.github.dgsasha.Remembrance
 runtime: org.gnome.Platform
-runtime-version: '44'
+runtime-version: '46'
 sdk: org.gnome.Sdk
 command: remembrance
 
@@ -52,5 +52,5 @@ modules:
     sources:
       - type: archive
         url: https://github.com/dgsasha/remembrance/archive/refs/tags/v4.0.tar.gz
-        sha256: 2632d2a481e91a5e0bfa33e8c3be93f002f40323b76e1ab0148add114c316d49
+        sha256: b3410b1718a8a08d7adb962b66c74ef298d0ee1bcc87c4109701fb2bfcabb772
 
